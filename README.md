@@ -4,3 +4,19 @@ Yet another C++ Sorting repository on Github. These are done during my under-gra
 
 # Selection Sort
 ![](Selection/size_comp_selection.png)
+
+
+# Insertion Sort
+![](Selection/size_comp_insertion.png)
+
+
+# Bubble Sort
+![](Selection/size_comp_bubble.png)
+
+
+# Merge Sort
+![](Selection/size_comp_merge.png)
+
+
+# Quick Sort
+![](Selection/size_comp_quick.png)
