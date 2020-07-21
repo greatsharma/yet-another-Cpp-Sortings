@@ -47,7 +47,7 @@ int main()
 	for (int k = 0; k < NO_RUNS; k++)
 	{
 		cout << "\n\nRUN " << k + 1;
-		int size = 5 + (rand() % (15 - (5) + 1));
+		int size = 30 + (rand() % (1000 - (30) + 1));
 
 		cout << "\n\nsize : " << size;
 
